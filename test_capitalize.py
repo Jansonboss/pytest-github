@@ -14,3 +14,6 @@ def test_capitalize_string():
 
 def test_lowercase_string():
 	assert lower_string('test') == 'test'
+
+def test__string():
+	assert 'test' == 'test'
